@@ -1,24 +1,24 @@
 {
-  "commission": 88.88,
+  "commission": 55,
   "direct": {
-    "register": 88,
-    "deposit_number": 88,
-    "deposit_amount": 88,
-    "first_deposit": 88
+    "register": 55,
+    "deposit_number": 55,
+    "deposit_amount": 55,
+    "first_deposit": 55
   },
   "team": {
-    "register": 88,
-    "deposit_number": 88,
-    "deposit_amount": 88,
-    "first_deposit": 88
+    "register": 55,
+    "deposit_number": 55,
+    "deposit_amount": 55,
+    "first_deposit": 55
   },
   "promotion": {
-    "this_week": 88,
-    "total_commission": 88,
-    "direct_subordinates": 88,
-    "team_subordinates": 88
+    "this_week": 55,
+    "total_commission": 55,
+    "direct_subordinates": 55,
+    "team_subordinates": 55
   },
   "invitation": {
-    "code": "88"
+    "code": "55"
   }
 }
