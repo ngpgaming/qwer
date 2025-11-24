@@ -325,7 +325,7 @@
     }
   },
   {
-    "date": "2025-11-22",
+    "date": "2025-11-23",
     "stats": {
       "All": {
         "depositNumber": 1686,
@@ -347,25 +347,6 @@
     "uids": {
       "All": [],
       "Tier 1": []
-    }
-  },
-  {
-    "date": "2025-11-23",
-    "All": {
-      "depositNumber": 22,
-      "depositAmount": 22,
-      "numBettors": 22,
-      "totalBet": 22,
-      "numFirstDeposit": 22,
-      "firstDepositAmount": 22
-    },
-    "Tier1": {
-      "depositNumber": 22,
-      "depositAmount": 22,
-      "numBettors": 22,
-      "totalBet": 22,
-      "numFirstDeposit": 22,
-      "firstDepositAmount": 22
     }
   }
 ]
