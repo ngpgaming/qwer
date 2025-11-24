@@ -1,6 +1,13 @@
 [
   {
     "type": "ONE-CLICK REBATE",
+    "detail": "3",
+    "time": "2025-11-25 15:33:58",
+    "balance": 37000.54,
+    "remarks": "e"
+  },
+  {
+    "type": "ONE-CLICK REBATE",
     "detail": "AGENT COMMISSION",
     "time": "2025-11-25 13:57:02",
     "balance": 12000,
