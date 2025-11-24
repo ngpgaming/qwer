@@ -367,5 +367,24 @@
       "numFirstDeposit": 88,
       "firstDepositAmount": 88
     }
+  },
+  {
+    "date": "2025-11-24",
+    "All": {
+      "depositNumber": 33,
+      "depositAmount": 33,
+      "numBettors": 33,
+      "totalBet": 33,
+      "numFirstDeposit": 33,
+      "firstDepositAmount": 33
+    },
+    "Tier1": {
+      "depositNumber": 33,
+      "depositAmount": 33,
+      "numBettors": 33,
+      "totalBet": 33,
+      "numFirstDeposit": 33,
+      "firstDepositAmount": 33
+    }
   }
 ]
