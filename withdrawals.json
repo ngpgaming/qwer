@@ -1,0 +1,245 @@
+[
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-23 13:17:39",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251123131739461397d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-23 13:15:47",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251123131547742310e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-23 08:04:27",
+    "balance": 30900,
+    "status": "Completed",
+    "order": "WD20251123080427741357c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-22 15:11:32",
+    "balance": 50100,
+    "status": "Completed",
+    "order": "WD20251122151132583416d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-22 15:10:45",
+    "balance": 50100,
+    "status": "Completed",
+    "order": "WD20251122151045461372ed",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-17 13:10:31",
+    "balance": 60000,
+    "status": "Completed",
+    "order": "WD20251117131031369258d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-17 12:28:25",
+    "balance": 49825,
+    "status": "Completed",
+    "order": "WD20251117122825321753c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-17 05:34:37",
+    "balance": 20000,
+    "status": "Completed",
+    "order": "WD20251117053437741852c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-16 14:10:21",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251116141021134613d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-16 14:08:45",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251116140845794613e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-16 07:54:02",
+    "balance": 18000,
+    "status": "Completed",
+    "order": "WD20251116075402461562b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-15 13:35:50",
+    "balance": 32350,
+    "status": "Completed",
+    "order": "WD20251115133550562319d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-15 12:39:42",
+    "balance": 55000,
+    "status": "Completed",
+    "order": "WD20251115123942794613c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-15 09:22:13",
+    "balance": 15955,
+    "status": "Completed",
+    "order": "WD20251115092213528417e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-20 08:36:41",
+    "balance": 15400,
+    "status": "Completed",
+    "order": "WD20251120083641714329b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-22 07:06:22",
+    "balance": 19700,
+    "status": "Completed",
+    "order": "WD20251122070622741963c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-21 13:23:41",
+    "balance": 18765,
+    "status": "Completed",
+    "order": "WD20251121132341732300b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-21 13:19:50",
+    "balance": 80000,
+    "status": "Completed",
+    "order": "WD20251121131950461372e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-21 06:01:40",
+    "balance": 15000,
+    "status": "Completed",
+    "order": "WD20251121989273DF",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-20 13:24:09",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251120132409783204b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-20 13:23:36",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD20251120132336432795b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-19 08:47:30",
+    "balance": 24425,
+    "status": "Completed",
+    "order": "WD20251119084730032769c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-18 22:52:19",
+    "balance": 15200,
+    "status": "Completed",
+    "order": "WD20251118225219714936e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-18 18:32:44",
+    "balance": 44350,
+    "status": "Completed",
+    "order": "WD20251118183244654328d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-18 14:49:03",
+    "balance": 10974,
+    "status": "Completed",
+    "order": "WD20251118144903375127c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-19 23:01:44",
+    "balance": 15060,
+    "status": "Completed",
+    "order": "WD20251119230144736145e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-19 17:59:39",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD2025111917593931216454c",
+    "remarks": "-"
+  }
+]
