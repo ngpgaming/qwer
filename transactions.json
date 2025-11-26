@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2025-11-26 08:28:20",
+    "balance": 30900,
+    "remarks": "DAILY SALARY , 26 NOVEMBER"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "88",
     "time": "2025-11-30 18:14:00",
