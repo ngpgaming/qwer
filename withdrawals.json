@@ -1,6 +1,15 @@
 [
   {
     "type": "WITHDRAW",
+    "detail": "ARPAY",
+    "time": "2025-11-26 08:41:29",
+    "balance": 50000,
+    "status": "Completed",
+    "order": "WD2025110111410491743896c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
     "detail": "USDT",
     "time": "2025-11-26 08:41:14",
     "balance": 50000,
