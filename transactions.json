@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
+    "time": "2025-11-27 22:34:27",
+    "balance": 150000,
+    "remarks": "27/11 , ADVANCE NORMAL WD +"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Bonus",
     "time": "2025-11-26 08:28:20",
