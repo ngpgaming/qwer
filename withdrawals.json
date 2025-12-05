@@ -3,9 +3,9 @@
     "id": 349,
     "type": "WITHDRAW",
     "detail": "USDT",
-    "time": "2025-12-04 11:23:00",
+    "time": "2025-12-04 11:23",
     "balance": 12800,
-    "status": "processing",
+    "status": "rejected",
     "order": "WD20251204112300678910929192D",
     "remarks": "-"
   },
