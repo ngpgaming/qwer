@@ -2,6 +2,13 @@
   {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
+    "time": "2025-12-04 01:00:00",
+    "balance": 24333.64,
+    "remarks": "-"
+  },
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "Commission",
     "time": "2025-12-03 01:00:00",
     "balance": 23657.19,
     "remarks": "-"
