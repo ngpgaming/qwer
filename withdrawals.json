@@ -2,7 +2,7 @@
   {
     "id": 8,
     "type": "WITHDRAW",
-    "detail": "USDT",
+    "detail": "BANK CARD",
     "time": "2025-12-06 12:11:41",
     "balance": 60000,
     "status": "completed",
