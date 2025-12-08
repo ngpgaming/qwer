@@ -1,12 +1,1 @@
-[
-  {
-    "id": 359,
-    "type": "WITHDRAW",
-    "detail": "UPI",
-    "time": "2025-12-08 10:25:42",
-    "balance": 9500,
-    "status": "rejected",
-    "order": "WD20251208102542e5f6",
-    "remarks": "Bank issue"
-  }
-]
+[]
