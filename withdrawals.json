@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-12-10 18:47:02",
+    "balance": 55,
+    "status": "Completed",
+    "order": "WD202511171259467890287192S",
+    "remarks": "-"
+  }
+]
