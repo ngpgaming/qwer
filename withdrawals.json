@@ -4,8 +4,8 @@
     "type": "WITHDRAW",
     "detail": "BANK CARD",
     "time": "2025-12-08 10:35:20",
-    "balance": 22545,
-    "status": "processing",
+    "balance": 888888888888888,
+    "status": "rejected",
     "order": "WD20251208103520a1b2",
     "remarks": "-"
   },
