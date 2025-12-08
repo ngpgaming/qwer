@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2025-12-08 12:53:46",
+    "balance": 6300,
+    "remarks": "INVITATION BONUS SALARY"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2025-12-08 12:50:44",
     "balance": 40000,
     "remarks": "08 DECEMBER - DAILY ADS FUND"
