@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 345,
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-12-01 07:48:17",
+    "balance": 25900,
+    "status": "completed",
+    "order": "WD20251201074817452374c",
+    "remarks": "-"
+  }
+]
