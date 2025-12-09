@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "Withdraw",
+    "time": "2025-12-09 08:13:50",
+    "balance": 26545,
+    "remarks": "-"
+  },
+  {
     "type": "BONUS",
     "detail": "Bonus",
     "time": "2025-12-09 13:01:51",
