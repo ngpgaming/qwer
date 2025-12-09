@@ -1,5 +1,15 @@
 [
   {
+    "id": 355,
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-12-04 12:51:52",
+    "balance": 60000,
+    "status": "completed",
+    "order": "WD20251204125152461379a",
+    "remarks": "-"
+  },
+  {
     "id": 354,
     "type": "WITHDRAW",
     "detail": "USDT",
