@@ -5,9 +5,9 @@
     "detail": "BANK CARD",
     "time": "2025-12-03 06:16:34",
     "balance": 24500,
-    "status": "rejected",
+    "status": "completed",
     "order": "WD20251203061634741326f",
-    "remarks": "Please resubmit"
+    "remarks": ""
   },
   {
     "id": 350,
