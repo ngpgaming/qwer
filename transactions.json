@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2025-12-10 17:11:51",
+    "balance": 45000,
+    "remarks": "10 DECEMBER - ADS SUPPORT + REIMBURSEMENT"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2025-12-10 16:59:44",
     "balance": 60000,
     "remarks": "10 DECEMBER - DAILY FIXED SALARY"
