@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-10 16:59:44",
+    "balance": 60000,
+    "remarks": "10 DECEMBER - DAILY FIXED SALARY"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2025-12-10 09:55:23",
