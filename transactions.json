@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-13 12:59:39",
+    "balance": 60000,
+    "remarks": "13 DECEMBER - DAILY FIXED SALARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-13 08:32:57",
