@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISSION",
+    "detail": "Commission",
+    "time": "2025-12-14 01:00:00",
+    "balance": 25631.75,
+    "remarks": "-"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2025-12-13 14:22:49",
