@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2025-12-12 12:48:34",
+    "balance": 6000,
+    "remarks": "INVITATION BONUS SALARY"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2025-12-11 12:45:54",
     "balance": 7000,
     "remarks": "INVITATION BONUS SALARY"
