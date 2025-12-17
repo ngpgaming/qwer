@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-16 12:32:08",
+    "balance": 6000,
+    "remarks": "INVITATION BONUS SALARY"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2025-12-16 21:38:48",
