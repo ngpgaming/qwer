@@ -1,5 +1,12 @@
 [
   {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "Bonus",
+    "time": "2025-12-17 18:26:51",
+    "balance": 300,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-17 18:16:30",
