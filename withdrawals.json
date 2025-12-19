@@ -15,7 +15,7 @@
     "detail": "BANK CARD",
     "time": "2025-12-18 07:38:16",
     "balance": 25000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD20251218073816714325a",
     "remarks": "-"
   },
