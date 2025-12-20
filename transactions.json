@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-20 12:16:10",
+    "balance": 45000,
+    "remarks": "20 DECEMBER - DAILY ADS FUND"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-19 12:49:50",
