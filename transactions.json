@@ -1,12 +1,5 @@
 [
   {
-    "type": "Select Category",
-    "detail": "",
-    "time": "2025-12-20 13:52:01",
-    "balance": null,
-    "remarks": "-"
-  },
-  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-19 22:39:57",
