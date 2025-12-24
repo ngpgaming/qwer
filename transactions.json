@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-23 12:32:00",
+    "balance": 65000,
+    "remarks": "23 DECEMBER - DAILY FIXED SALARY"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
     "time": "2025-12-24 01:00:00",
