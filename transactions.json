@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-26 11:52:42",
+    "balance": 33,
+    "remarks": "INVITE WHEEL REWARD"
+  }
+]
