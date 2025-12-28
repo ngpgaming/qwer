@@ -2,6 +2,14 @@
   {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
+    "time": "2025-12-24 12:59:04",
+    "balance": -95000,
+    "remarks": "",
+    "refOrder": "WD20251224125904258461b"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
     "time": "2025-12-26 07:48:13",
     "balance": -22450,
     "remarks": "",
