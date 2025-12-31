@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2025-12-31 13:27:13",
+    "balance": 10000,
+    "remarks": "FY 2025 EVENT REWARD"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2025-12-31 13:20:39",
     "balance": 45000,
     "remarks": "31 DECEMBER - DAILY ADS FUND"
