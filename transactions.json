@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-01 12:28:59",
+    "balance": 65000,
+    "remarks": "381416 / 01-01-26 DAILY SALARY"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
     "time": "2026-01-05 01:00:00",
