@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-02 13:00:10",
+    "balance": 45000,
+    "remarks": "381416 / 02-01-26 ADS FUND"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-05 09:33:21",
