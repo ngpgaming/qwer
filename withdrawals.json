@@ -45,7 +45,7 @@
     "detail": "BANK CARD",
     "time": "2026-01-07 08:25:12",
     "balance": 23514,
-    "status": "processing",
+    "status": "completed",
     "order": "WD20260107082512431946d",
     "remarks": "-"
   },
