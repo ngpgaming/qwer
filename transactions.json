@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-09 12:42:07",
+    "balance": 65000,
+    "remarks": "696585 / 09-01-26 DAILY SALARY"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2026-01-09 10:29:16",
