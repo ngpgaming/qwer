@@ -1,5 +1,12 @@
 [
   {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "Bonus",
+    "time": "2026-01-09 11:43:19",
+    "balance": 300,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
     "type": "BONUS",
     "detail": "Bonus",
     "time": "2026-01-09 12:50:40",
