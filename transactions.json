@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2026-01-09 12:50:40",
+    "balance": 46500,
+    "remarks": "696585 / 09-01-26 ADS FUND"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2026-01-09 12:42:07",
     "balance": 65000,
     "remarks": "696585 / 09-01-26 DAILY SALARY"
