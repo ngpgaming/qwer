@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-21 07:44:29",
+    "balance": 300,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
     "time": "2026-01-21 01:00:00",
