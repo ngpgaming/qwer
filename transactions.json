@@ -1,5 +1,12 @@
 [
   {
+    "type": "Select Category",
+    "detail": "",
+    "time": "2026-01-24 12:00:31",
+    "balance": null,
+    "remarks": "-"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2026-01-24 10:45:18",
