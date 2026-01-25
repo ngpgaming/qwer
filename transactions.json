@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-22 12:29:12",
+    "balance": 65000,
+    "remarks": "22/01/2026 DAILY SALARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-22 04:58:54",
