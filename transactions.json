@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-02-04 12:22:00",
+    "balance": 80000,
+    "remarks": "ADVANCE AGENT FUNDS"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "Bonus",
     "time": "2026-01-25 19:49:42",
