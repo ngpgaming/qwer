@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "Bonus Deduction",
+    "time": "2026-02-05 12:11:00",
+    "balance": 80000,
+    "remarks": "Bonus Deduction"
+  },
+  {
     "type": "BONUS",
     "detail": "Bonus",
     "time": "2026-02-05 10:32:00",
